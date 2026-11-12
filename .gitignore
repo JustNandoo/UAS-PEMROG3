@@ -1,0 +1,10 @@
+.venv/
+.airflow/
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+*.log
+data/output/

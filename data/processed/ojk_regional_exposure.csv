@@ -1,0 +1,39 @@
+periode,wilayah,nama_provinsi,penyaluran_miliar,share_nasional_persen,risk_tier
+2025-12,Jawa,1. Banten,110490.07,7.96,SEDANG
+2025-12,Jawa,2. DKI Jakarta,286945.12,20.66,TINGGI
+2025-12,Jawa,3. Jawa Barat,357092.25,25.71,TINGGI
+2025-12,Jawa,4. Jawa Tengah,111117.59,8.0,SEDANG
+2025-12,Jawa,5. DI Yogyakarta,18921.42,1.36,RENDAH
+2025-12,Jawa,6. Jawa Timur,183726.5,13.23,TINGGI
+2025-12,Luar Jawa,1. Nangroe Aceh Darussalam,4239.12,0.31,RENDAH
+2025-12,Luar Jawa,2. Sumatera Utara,40474.54,2.91,SEDANG
+2025-12,Luar Jawa,3. Sumatera Barat,16961.7,1.22,RENDAH
+2025-12,Luar Jawa,4. Riau,19028.36,1.37,RENDAH
+2025-12,Luar Jawa,5. Kepulauan Riau,13248.87,0.95,RENDAH
+2025-12,Luar Jawa,6. Kepualauan Bangka Belitung,4566.86,0.33,RENDAH
+2025-12,Luar Jawa,7. Jambi,9838.61,0.71,RENDAH
+2025-12,Luar Jawa,8. Sumatera Selatan,24468.99,1.76,RENDAH
+2025-12,Luar Jawa,9. Bengkulu,4743.43,0.34,RENDAH
+2025-12,Luar Jawa,10. Lampung,21052.66,1.52,RENDAH
+2025-12,Luar Jawa,11. Kalimantan Barat,11192.58,0.81,RENDAH
+2025-12,Luar Jawa,12. Kalimantan Tengah,6373.1,0.46,RENDAH
+2025-12,Luar Jawa,13. Kalimantan Utara,1748.45,0.13,RENDAH
+2025-12,Luar Jawa,14. Kalimantan Timur,19677.95,1.42,RENDAH
+2025-12,Luar Jawa,15. Kalimantan Selatan,12780.76,0.92,RENDAH
+2025-12,Luar Jawa,16. Sulawesi Utara,14101.53,1.02,RENDAH
+2025-12,Luar Jawa,17. Gorontalo,5937.87,0.43,RENDAH
+2025-12,Luar Jawa,18. Sulawesi Tengah,6536.11,0.47,RENDAH
+2025-12,Luar Jawa,19. Sulawesi Barat,2149.42,0.15,RENDAH
+2025-12,Luar Jawa,20. Sulawesi Selatan,24673.06,1.78,RENDAH
+2025-12,Luar Jawa,21. Sulawesi Tenggara,6473.18,0.47,RENDAH
+2025-12,Luar Jawa,22. Bali,23530.62,1.69,RENDAH
+2025-12,Luar Jawa,23. Nusa Tenggara Barat,9501.23,0.68,RENDAH
+2025-12,Luar Jawa,24. Nusa Tenggara Timur,6517.26,0.47,RENDAH
+2025-12,Luar Jawa,25. Maluku Utara,2023.94,0.15,RENDAH
+2025-12,Luar Jawa,26. Maluku,2617.51,0.19,RENDAH
+2025-12,Luar Jawa,27. Papua Barat,1623.64,0.12,RENDAH
+2025-12,Luar Jawa,28. Papua,3862.06,0.28,RENDAH
+2025-12,Luar Jawa,29. Papua Tengah,223.16,0.02,RENDAH
+2025-12,Luar Jawa,30. Papua Pegunungan,77.62,0.01,RENDAH
+2025-12,Luar Jawa,31. Papua Selatan,112.47,0.01,RENDAH
+2025-12,Luar Jawa,32. Papua Barat Daya,187.76,0.01,RENDAH
